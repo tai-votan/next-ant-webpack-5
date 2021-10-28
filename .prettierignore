@@ -1,0 +1,13 @@
+package.json
+*.svg
+.dockerignore
+.DS_Store
+.eslintignore
+.gitignore
+.prettierignore
+*.lock
+yarn-error.log
+/.next
+.idea
+.env
+/public
